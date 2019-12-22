@@ -5,7 +5,7 @@
 ## 前言介绍
 在实际的业务开发中按照不同的场景需要，会有不同的业务架构也就同时会有不同的技术框架来支撑。那么这个专题想把一些常用的框架整理下，方便平时使用的同时也做一些技术沉淀。那么本章节会先搭建一个比较适合个人项目或者一些小公司开发项目的单体架构模型。服务功能展示页面如下；
 
-![微信公众号：bugstack虫洞栈 & 展示页面](https://user-gold-cdn.xitu.io/2019/12/22/16f2e044fe33ca27?w=1918&h=1031&f=png&s=76217)
+![微信公众号：bugstack虫洞栈 & 展示页面](https://fuzhengwei.github.io/assets/images/pic-content/2019/11/itstack-demo-frame-ssm-01.png)
 
 ## 工程环境
 1. JDK1.8
@@ -430,4 +430,4 @@ insert into user (id, name, age, address, entryTime, remark, createTime, updateT
 - 工程框架采用了DDD架构模式，在此架构模式下可以更容易的开发系统，适应后比MVC更加方便
 - 后续将继续拓展架构服务搭建，包括一些Dubbo、Redis、mq等使用，方便自己也方便他人
 
-![微信公众号：bugstack虫洞栈，欢迎关注&获取源码](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9idWdzdGFjay5jbi93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wOS8lRTUlOTAlOEQlRTclODklODcyLnBuZw?x-oss-process=image/format,png)
+![微信公众号：bugstack虫洞栈，欢迎关注&获取源码](https://bugstack.cn/assets/images/qrcode.png)
