@@ -25,7 +25,7 @@
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <junit.version>4.12</junit.version>
         <logback.version>1.0.9</logback.version>
-        <mysql.version>5.1.20</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <resteasy.version>2.2.1.GA</resteasy.version>
         <slf4j.version>1.7.7</slf4j.version>
         <spring.version>4.3.24.RELEASE</spring.version>
